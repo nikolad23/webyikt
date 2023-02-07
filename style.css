@@ -1,4 +1,5 @@
 h1 {color: rgb(202, 99, 30); }
-#id1 {background-color: aquamarine;}
+h1 {background-color: aquamarine;}
 a {background-color: brown;}
-#pouze u id
+.class2.class3{background-color: fuchsia;}
+.class2.class3 p {color: greenyellow;}
