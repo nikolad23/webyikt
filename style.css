@@ -2,4 +2,6 @@ h1 {color: rgb(202, 99, 30); }
 h1 {background-color: aquamarine;}
 a {background-color: brown;}
 .class2.class3{background-color: fuchsia;}
-.class2.class3 p {color: greenyellow;}
+.class2.class3 p {color: #adff2f;}
+.class1 {background-image: url(stromek.jpg);}
+/*komentáře*/
