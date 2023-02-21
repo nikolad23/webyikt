@@ -3,5 +3,12 @@ h1 {background-color: aquamarine;}
 a {background-color: brown;}
 .class2.class3{background-color: fuchsia;}
 .class2.class3 p {color: #adff2f;}
-.class1 {background-image: url(stromek.jpg);}
-/*komentáře*/
+.class1 {background-image: url(stromek.jpg)}
+.class6{border: #2fe7ff; }
+.class6 {background-color: blue;}
+.class6 {padding-top: 100px;padding-bottom : 100px;padding-right : 100px;padding-left : 100px}
+.class6 { margin-top: 100px; margin-bottom: 100px;margin-left: 100px;margin-right: 100px;}
+.class3 {margin: 100px 100px 150px 200px}
+a:link{color: rgb(23, 20, 220);}
+a:visited{color: chocolate;}
+a:hover{color: #adff2f;}
