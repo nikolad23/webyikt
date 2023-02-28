@@ -12,3 +12,6 @@ a {background-color: brown;}
 a:link{color: rgb(23, 20, 220);}
 a:visited{color: chocolate;}
 a:hover{color: #adff2f;}
+/**/
+a:link{text-decoration:none;}
+
